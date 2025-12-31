@@ -75,11 +75,4 @@ The insights derived from this analysis can help:
 - Cohort analysis for customer retention
 - Predictive modeling for sales forecasting
 - Dashboard creation using Power BI / Tableau
-
----
-
-## 📎 How to Run the Project
-1. Clone the repository
-2. Install required libraries:
-   ```bash
    pip install pandas matplotlib seaborn

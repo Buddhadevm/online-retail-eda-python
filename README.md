@@ -22,12 +22,13 @@ The dataset contains detailed customer transaction records including invoice det
 - **Time Period:** 2010 – 2011
 - **Data Type:** Transactional sales data
 - **Key Features:**
-  - Invoice Number
-  - Product Description
+  - InvoiceNo
+  - StockCode
+  - Description
   - Quantity
-  - Unit Price
-  - Invoice Date
-  - Customer ID
+  - InvoiceDate
+  - UnitPrice
+  - CustomerID
   - Country
 
 ---
